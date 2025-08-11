@@ -1,4 +1,4 @@
-# ros2_orangeCube_imuMadgwickFilter
+# Using Madgwick Filter on IMU data of Orange Cube using ROS2
 
 This guide explains how to filter and visualize IMU data published on `/mavros/imu/data` using the `imu_filter_madgwick` node in ROS 2.
 
