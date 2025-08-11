@@ -7,7 +7,7 @@ This guide explains how to filter and visualize IMU data published on `/mavros/i
 ---
 ### Note:
 
-This project builds upon the foundational setup detailed in [ros2_orangeCube_integration](https://github.com/syedmohiuddinzia/ros2_orangeCube_integration)
+This project builds upon the foundational setup detailed in [ros2_orangeCube_integration](https://github.com/syedmohiuddinzia/ros2_orangeCube_integration).
 Please make sure to follow the integration steps there first to get your Cube Orange connected with ROS 2 and MAVROS properly before using this IMU Madgwick filter package.
 
 ---
