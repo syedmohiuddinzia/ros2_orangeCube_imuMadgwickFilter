@@ -3,7 +3,15 @@
 This guide explains how to filter and visualize IMU data published on `/mavros/imu/data` using the `imu_filter_madgwick` node in ROS 2.
 
 ![gif](https://github.com/syedmohiuddinzia/ros2_orangeCube_imuMadgwickFilter/blob/main/pic/gif_.gif)
+
 ---
+### Note:
+
+This project builds upon the foundational setup detailed in [ros2_orangeCube_integration](https://github.com/syedmohiuddinzia/ros2_orangeCube_integration)
+Please make sure to follow the integration steps there first to get your Cube Orange connected with ROS 2 and MAVROS properly before using this IMU Madgwick filter package.
+
+---
+
 ### Step 1: Install `imu_filter_madgwick`
 
 If not already installed, install the package:
